@@ -16,27 +16,37 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description: 90%
   icon: icons8-solidworks-flow-simulation
   icon_pack: "custom"
-  name: Artificial Intelligence-based algorithms
+  name: Numerical Simulations
   
-- description: 
+- description: 90%
   icon: python
   icon_pack: fab
   name: Python
 
-- description: 
+- description: 75%
+  icon: icons8-matlab
+  icon_pack: "custom"
+  name: MATLAB
+
+- description: 80%
   icon: chart-line
   icon_pack: fas
   name: Statistics
 
-- description: 
+- description: 10%
+  icon: r-project
+  icon_pack: fab
+  name: R
+
+- description: 25%
   icon: file-code
   icon_pack: fas 
   name: Programming
 
-- description: 
+- description: 80%
   icon: git-alt
   icon_pack: fab
   name: Git
@@ -46,12 +56,13 @@ feature:
   icon_pack: fab
   name: GitLab
 
-- description: 
+- description: 30%
   icon: github
   icon_pack: fab
   name: GitHub
 
-# - description: 
+
+# - description: 10%
 #   icon: camera-retro
 #   icon_pack: fas
 #   name: Photography

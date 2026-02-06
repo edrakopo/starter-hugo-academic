@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Feb 2026
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -23,18 +23,18 @@ date_format: Feb 2026
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Associate
-    company: Institute of Nuclear and Particle Physics, N.C.S.R. Demokritos
-    company_url: 'https://www.demokritos.gr'
+    company: University of Edinburgh
+    company_url: 'https://www.ed.ac.uk/'
     company_logo: University_of_Edinburgh-Logo_2
-    location: Agia Paraskevi, Attiki, Greece
-    date_start: '2021'
+    location: Edinburgh, Scotland, UK
+    date_start: '2013-01-07'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Astroparicle Physics
-        * Neutrinio Physics
-        * AI 
+        * Modelling & Simulation
+        * Experimental analysis and Calibration
+        * Data Analysis
         
   - title: Consultant
     company: University of Edinburgh
