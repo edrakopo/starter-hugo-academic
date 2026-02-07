@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 
   icon: icons8-solidworks-flow-simulation
   icon_pack: "custom"
-  name: AI-based Data Analysis
+  name: AI and Data Analysis
   
 - description: 
   icon: python
@@ -27,21 +27,21 @@ feature:
   name: Python
 
 - description: 
-  icon: cplusplus
-  icon_pack: "custom"
-  name: c++
+  icon: code
+  icon_pack: fas
+  name: C++
 
 - description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
 
-- description: 25%
+- description: 
   icon: file-code
   icon_pack: fas 
   name: Programming
 
-- description: 80%
+- description: 
   icon: git-alt
   icon_pack: fab
   name: Git
