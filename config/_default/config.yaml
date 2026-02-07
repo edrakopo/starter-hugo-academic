@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Evangelia Drakopoulou | Senior Researcher —  Particle Physics, AI # Website name
-baseurl: 'https://evangeliadrakopoulou.gr/' #'www.johnpmorrissey.com' # Website URL
+baseurl: 'https://evangeliadrakopoulou.netlify.app/' #'www.johnpmorrissey.com' # Website URL
 copyright: '© 2026 Evangelia Drakopoulou' # Footer text, e.g. '© {year} Me'
 
 ############################
