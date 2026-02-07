@@ -19,27 +19,22 @@ feature:
 - description: 90%
   icon: icons8-solidworks-flow-simulation
   icon_pack: "custom"
-  name: Numerical Simulations
+  name: AI-based Data Analysis
   
-- description: 90%
+- description: 
   icon: python
   icon_pack: fab
   name: Python
 
-- description: 75%
-  icon: icons8-matlab
+- description: 
+  icon: cplusplus
   icon_pack: "custom"
-  name: MATLAB
+  name: c++
 
-- description: 80%
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
-
-- description: 10%
-  icon: r-project
-  icon_pack: fab
-  name: R
 
 - description: 25%
   icon: file-code
@@ -51,15 +46,15 @@ feature:
   icon_pack: fab
   name: Git
 
-- description: 50%
-  icon: gitlab
-  icon_pack: fab
-  name: GitLab
+#- description: 50%
+#  icon: gitlab
+#  icon_pack: fab
+#  name: GitLab
 
-- description: 30%
-  icon: github
-  icon_pack: fab
-  name: GitHub
+#- description: 30%
+#  icon: github
+#  icon_pack: fab
+#  name: GitHub
 
 
 # - description: 10%
