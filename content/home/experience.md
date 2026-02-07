@@ -25,7 +25,6 @@ experience:
   - title: Senior Researcher
     company: NCSR Demokritos
     company_url: 'https://www.demokritos.gr/'
-    company_logo: 
     location: Agia Paraskevi, Athens, GR
     date_start: '2021-09'
     date_end: ''
