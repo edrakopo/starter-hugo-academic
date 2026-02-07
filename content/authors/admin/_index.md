@@ -16,10 +16,10 @@ interests:
 education:
   courses:
     - course: Ph.D. in Elementary Particle Physics
-      institution: National Technical University of Athens & NCSR Demokritos
+      institution: National Technical University of Athens and NCSR Demokritos
       year: 2016
     - course: MSc in Physics and Applications in Technology
-      institution: National Technical University of Athens & NCSR Demokritos
+      institution: National Technical University of Athens and NCSR Demokritos
       year: 2011
     - course: BSc. in Applied Mathematical and Physical Science
       institution: National Technical University of Athens
@@ -45,8 +45,8 @@ social:
     link: https://www.researchgate.net/profile/Evangelia-Drakopoulou-2
 email: ""
 highlight_name: true
+---
 
---- >-
 Dr. Evangelia Drakopoulou is a senior researcher in **experimental astroparticle
 physics**, specializing in neutrino experiments and the development of advanced
 **machine learning and deep learning** techniques.
@@ -67,6 +67,6 @@ She is currently working on KM3NeT (EU), ANNIE (USA) and Hyper-Kamiokande
 *particle property prediction* and *data-driven analysis* across scientific
 domains. 
 
-A complete list of publications can be found at: inspire
+A complete list of publications can be found at inspire
 [https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=%20Drakopoulou]
 
