@@ -10,7 +10,7 @@ experience:
     company: NCSR Demokritos
     company_url: https://www.demokritos.gr/
     location: Agia Paraskevi, Athens, GR
-    date_start: 2021-09
+    date_start: '2021-09-01'
     date_end: ""
     description: Working for international neutrino experiments KM3NeT [EU], ANNIE
       [USA], Hyper-Kamiokande [Japan]
@@ -19,8 +19,8 @@ experience:
     company_url: https://www.ed.ac.uk/
     company_logo: University_of_Edinburgh-Logo_2
     location: Edinburgh, Scotland, UK
-    date_start: 2016-03
-    date_end: 2021-07
+    date_start: '2016-03-01'
+    date_end: '2021-07-30'
     description: Worked for neutrino experiments worldwide Hyper-Kamiokande, E61
       [Japan], ANNIE [USA]
 design:
