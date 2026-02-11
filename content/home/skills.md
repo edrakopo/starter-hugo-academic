@@ -34,7 +34,7 @@ feature:
 - description: 
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Statistical Analysis
 
 - description: 
   icon: file-code
@@ -46,6 +46,21 @@ feature:
   icon_pack: fab
   name: Git
 
+- description:
+  icon: project-diagram
+  icon_pack: fas
+  name: Cross-domain AI
+
+- description:
+  icon: users
+  icon_pack: fas
+  name: Scientific Collaboration
+
+- description:
+  icon: flask
+  icon_pack: fas
+  name: Simulation & Detector Tools
+  
 #- description: 50%
 #  icon: gitlab
 #  icon_pack: fab
