@@ -10,7 +10,7 @@ experience:
     company: NCSR Demokritos
     company_url: https://www.demokritos.gr/
     location: Agia Paraskevi, Athens, GR
-    date_start: December 2025
+    date_start: 2025-12-10T00:00:00
     date_end: ""
     description: |2- 
        Working on international neutrino collaborations KM3NeT [EU], ANNIE
@@ -23,12 +23,12 @@ experience:
     company: NCSR Demokritos
     company_url: https://www.demokritos.gr/
     location: Agia Paraskevi, Athens, GR
-    date_start: August 2021
-    date_end: November 2025
+    date_start: 2021-09-01T00:00:00
+    date_end: 2025-12-9T00:00:00
     description: |2- 
        Worked on international neutrino experiments: KM3NeT [EU], ANNIE
        [USA], Hyper-Kamiokande [Japan]   
-       * Led the design and development of open-source software and AI-ready data pipelines for high-energy and neutrino physics, enabling Graph Neural Network–based analysis. [DOI zenodo.14281076](https://zenodo.org/records/16942988)
+       * Led the design and development of open-source software and AI-ready data pipelines for high-energy and neutrino physics, enabling Graph Neural Network–based analysis. [DOI zenodo.16942988](https://zenodo.org/records/16942988)
        * Coordinated interdisciplinary research teams across multiple institutes, focusing on the optimisation and redesign of machine and deep learning architectures for event classification and reconstruction (KM3NeT, ANNIE).
        * Supervised undergraduate, MSc, PhD students and research assistants, in AI–driven data analysis for neutrino experiments.
        * Teaching courses: "Statistical Techniques" in the MSc program: Physics and Applications in Technology at [NTUA](https://metaptychiako-fysikis.physics.ntua.gr/en/home/), "Particle Physics" at the [College Year In Athens] (https://cyathens.org)
@@ -38,8 +38,8 @@ experience:
     company_url: https://www.ed.ac.uk/
     company_logo: University_of_Edinburgh-Logo_2
     location: Edinburgh, Scotland, UK
-    date_start: March 2016
-    date_end: July 2021
+    date_start: 2016-03-01T00:00:00
+    date_end: 2021-07-30T00:00:00
     description: |2- 
        Worked on international neutrino experiments: Hyper-Kamiokande, E61
        [Japan], ANNIE [USA]
