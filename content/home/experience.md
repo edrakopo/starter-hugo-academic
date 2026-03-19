@@ -10,12 +10,12 @@ experience:
     company: NCSR Demokritos
     company_url: https://www.demokritos.gr/
     location: Agia Paraskevi, Athens, GR
-    date_start: '2025-12-10'
+    date_start: 'Dec 2025'
     date_end: ""
     description: |2- 
        Working on international neutrino collaborations KM3NeT [EU], ANNIE
        [USA], Hyper-Kamiokande [Japan]
-       * Supervising undergraduate, MSc and PhD students, as well as research assistants, guiding AI–driven data analysis within international neutrino physics collaborations.
+       * Supervising undergraduate, MSc and PhD students, as well as research assistants: guiding AI–driven data analysis within international neutrino physics collaborations.
        * Leading the development of SpecCluster, a desktop application supporting machine-learning–driven clustering and exploration of spectral and X-ray fluorescence(XRF) data. [DOI zenodo.17579433](https://doi.org/10.5281/zenodo.17579433)
        * Teaching the course:"Statistical Techniques" in the MSc program: Physics and Applications in Technology at [NTUA](https://metaptychiako-fysikis.physics.ntua.gr/en/home/).
 
@@ -23,8 +23,8 @@ experience:
     company: NCSR Demokritos
     company_url: https://www.demokritos.gr/
     location: Agia Paraskevi, Athens, GR
-    date_start: '2021-09-01'
-    date_end: '2025-12-09'
+    date_start: 'Sep 2021'
+    date_end: 'Dec 2025'
     description: |2- 
        Worked on international neutrino experiments: KM3NeT [EU], ANNIE
        [USA], Hyper-Kamiokande [Japan]   
@@ -38,8 +38,8 @@ experience:
     company_url: https://www.ed.ac.uk/
     company_logo: University_of_Edinburgh-Logo_2
     location: Edinburgh, Scotland, UK
-    date_start: '2016-03-01'
-    date_end: '2021-07-30'
+    date_start: 'Mar 2016'
+    date_end: 'Jul 2021'
     description: |2- 
        Worked on international neutrino experiments: Hyper-Kamiokande, E61
        [Japan], ANNIE [USA]
