@@ -4,7 +4,7 @@ headless: true
 weight: 40
 title: Experience
 subtitle: null
-date_format: Feb 2026
+date_format: Jan 2006
 experience:
   - title: Senior Researcher
     company: NCSR Demokritos
@@ -31,7 +31,7 @@ experience:
        * Led the design and development of open-source software and AI-ready data pipelines for high-energy and neutrino physics, enabling Graph Neural Network–based analysis. [DOI zenodo.16942988](https://zenodo.org/records/16942988)
        * Coordinated interdisciplinary research teams across multiple institutes, focusing on the optimisation and redesign of machine and deep learning architectures for event classification and reconstruction (KM3NeT, ANNIE).
        * Supervised undergraduate, MSc, PhD students and research assistants, in AI–driven data analysis for neutrino experiments.
-       * Teaching courses: "Statistical Techniques" in the MSc program: Physics and Applications in Technology at [NTUA](https://metaptychiako-fysikis.physics.ntua.gr/en/home/), "Particle Physics" at the [College Year In Athens] (https://cyathens.org)
+       * Teaching courses: "Statistical Techniques" in the MSc program: Physics and Applications in Technology at [NTUA](https://metaptychiako-fysikis.physics.ntua.gr/en/home/), "Particle Physics" at the [College Year In Athens](https://cyathens.org)
         
   - title: Research Associate
     company: University of Edinburgh
