@@ -27,18 +27,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: DEM
-    tag: DEM
-  - name: Coupled Models
-    tag: Coupled Models
-  - name: Calibration
-    tag: Calibration
-  - name: Characterisation
-    tag: Characterisation
-  - name: Analytics
-    tag: Data Analytics
-  - name: Other
-    tag: Other
+  - name: Open Source
+    tag: Open Source
+  - name: KM3NeT 
+    tag: KM3NeT
+  - name: ANNIE
+    tag: ANNIE
+  - name: Other AI-related  
+    tag: Other AI-related
+  #- name: Analytics
+  #  tag: Data Analytics
+  #- name: Other
+  #  tag: Other
 
 
 design:
