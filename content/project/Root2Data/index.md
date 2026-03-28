@@ -8,10 +8,7 @@ tags:
 - Open Source
 #- Data Analytics
 
-date: 2025-08-25
-#date: 2025-08-25
-#publishDate: 2025-08-25
-#lastmod: 2025-08-25
+date: "2025-08-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
