@@ -22,5 +22,4 @@ An open-source desktop application for interactive clustering and exploration of
 
 The software is publicly available on [Zenodo](https://doi.org/10.5281/zenodo.17579432) and [GitHub](https://github.com/appINPP/SpecCluster). Detailed instructions exist in [Youtube](https://www.youtube.com/watch?v=OEp86lLKPew).
 
-Team: Supervised by Evangelia Drakopoulou, Main Developper: Tzannis Vasileiadis, Contributions from:  
-Andreas G. Karydas
+Team: Supervised by Evangelia Drakopoulou, Main Developper: Tzannis Vasileiadis, Contributions from: Andreas G. Karydas

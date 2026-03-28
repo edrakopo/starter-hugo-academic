@@ -23,4 +23,4 @@ High-energy physics relies on the ROOT format to store complex event data—but 
 The software is publicly available on [Zenodo](https://doi.org/10.5281/zenodo.14281076) and [GitHub](https://github.com/appINPP/root2data).
 
 Team: Supervised by Evangelia Drakopoulou, Main Developpers: Nikolaos Iliopoulos,  
-Emmanouil Giannakis,  Contributions from: Spyros Jani, Michail Mitrofan
+Emmanouil Giannakis,  Contributions from: Spyridon Jani, Michail Mitrofan
