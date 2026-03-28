@@ -7,19 +7,11 @@ summary: ROOT2Data is an open source Python toolset for converting ROOT files to
 tags:
 - Open Source
 #- Data Analytics
-#- Temperature dependent
-#- Time dependent
-#- Coupling
-#- MBD
-#- Adhesion
-#- Cohesion
-#- EEPA
-#- EBBM
 
-#date: 2025-08-25
 date: 2025-08-25
-publishDate: 2025-08-25
-lastmod: 2025-08-25
+#date: 2025-08-25
+#publishDate: 2025-08-25
+#lastmod: 2025-08-25
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -60,10 +52,9 @@ image:
 ---
 
 # Introduction
----
-High-energy physics relies on the ROOT format to store complex event data—but this structure can be limiting for modern AI workflows. root2data bridges this gap by transforming ROOT files into flexible, machine learning–ready formats like Parquet, SQLite, and HDF5.
 
-The software is publicly available on [Zenodo](https://doi.org/10.5281/zenodo.14281076) and [Github](https://github.com/appINPP/root2data).
+High-energy physics relies on the ROOT format to store complex event data—but this structure can be limiting for modern AI workflows. ROOT2Data bridges this gap by transforming ROOT files into flexible, machine learning–ready formats like Parquet, SQLite, and HDF5.
+
+The software is publicly available on [Zenodo](https://doi.org/10.5281/zenodo.14281076) and [GitHub](https://github.com/appINPP/root2data).
 
 
----
