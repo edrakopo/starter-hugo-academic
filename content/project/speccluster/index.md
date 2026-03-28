@@ -20,7 +20,7 @@ image:
 
 An open-source desktop application for interactive clustering and exploration of X-ray fluorescence (XRF) data. Designed for clarity and reproducibility, it combines intuitive point-and-click controls with powerful tools for dimensionality reduction, clustering and spectral analysis allowing users to seamlessly link spatial maps with underlying spectra and extract meaningful insights from complex datasets.
 
-The software is publicly available on [Zenodo](https://doi.org/10.5281/zenodo.17579432) and [GitHub](https://github.com/appINPP/SpecCluster). Detailed instructions exist in Youtube (https://www.youtube.com/watch?v=OEp86lLKPew.)
+The software is publicly available on [Zenodo](https://doi.org/10.5281/zenodo.17579432) and [GitHub](https://github.com/appINPP/SpecCluster). Detailed instructions exist in Youtube (https://www.youtube.com/watch?v=OEp86lLKPew).
 
 Team: Supervised by Evangelia Drakopoulou, Main Developper: Tzannis Vasileiadis, Contributions from:  
 Andreas G. Karydas
