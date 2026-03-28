@@ -1,5 +1,5 @@
 ---
-title: "Transporting, handling and storing behaviour of iron ore fines"
+title: "ROOT2Data: From ROOT to AI-Ready Data"
 
 summary: ROOT2Data is an open source Python toolset for converting ROOT files to hdf5, sqlite & parquet data formats.
 
@@ -16,7 +16,7 @@ tags:
 #- EEPA
 #- EBBM
 
-date: "2025-08-25T00:00:00Z"
+date: "2013-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -25,22 +25,22 @@ image:
   caption: Schematic overview of the root2data conversion workflow.
   focal_point: Smart
 
-links:
+#links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/jp_morr
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+#slides: ""
 
 # gallery captions
 #gallery_item:
@@ -60,7 +60,7 @@ slides: ""
 ---
 High-energy physics relies on the ROOT format to store complex event data—but this structure can be limiting for modern AI workflows. root2data bridges this gap by transforming ROOT files into flexible, machine learning–ready formats like Parquet, SQLite, and HDF5.
 
-The software is publicly available on Zenodo[https://doi.org/10.5281/zenodo.14281076] and Github[https://github.com/appINPP/root2data].
+The software is publicly available on [Zenodo](https://doi.org/10.5281/zenodo.14281076) and [Github](https://github.com/appINPP/root2data).
 
 
 ---
