@@ -18,12 +18,12 @@ external_link: ""
 ---
 
 **2026 - Present: C. Karagiannis**
-Diffuse astrophysical neutrino flux analyses with KM3NeT/ARCA using Machine and Deep Learning Techniques for signal selection and  reconstruction of signal properties. 
+Diffuse astrophysical neutrino flux analyses with KM3NeT/ARCA using machine and deep Learning techniques for signal selection and reconstruction of neutrino properties. 
 
 **2021 - 2025: V. Tsourapis (co-supervision)**
 Development of machine learning algorithms for signal and background classification, and statistical analysis for the study of the diffuse astrophysical neutrino flux with KM3NeT/ARCA (6–21 detection units).
 *Publication in preparation.*
-**Conference contributions:** Neutrino2022, [ICRC2023](https://pos.sissa.it/444/1195/pdf), [Neutrino2024](DOI 10.5281/zenodo.13899660), [PIC2024](https://indico.cern.ch/event/1414470/contributions/6157614/attachments/2952718/5190888/Poster_PIC2024_KM3NeT_diffuse_Filippini_Tsourapis.pdf),[ICRC2025](https://pos.sissa.it/501/1196/pdf).
+**Conference contributions:** Neutrino2022, [ICRC2023](https://pos.sissa.it/444/1195/pdf), [Neutrino2024](DOI 10.5281/zenodo.13899660), [PIC2024](https://indico.cern.ch/event/1414470/contributions/6157614/attachments/2952718/5190888/Poster_PIC2024_KM3NeT_diffuse_Filippini_Tsourapis.pdf), [ICRC2025](https://pos.sissa.it/501/1196/pdf).
 
 **2021 - 2024: D. Stavropoulos (co-supervision)**
 Development of machine learning algorithms for signal and background classification enabling the measurement of the atmospheric muon neutrino flux with the KM3NeT/ORCA6 detector.

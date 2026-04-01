@@ -67,5 +67,5 @@ She is currently working on KM3NeT (EU), ANNIE (USA) and Hyper-Kamiokande
 *particle property prediction* and *data-driven analysis* across scientific
 domains. 
 
-A complete list of publications can be found at [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=%20Drakopoulou)
+A complete list of publications can be found at [INSPIRE-HEP](https://inspirehep.net/authors/1784936)
 
