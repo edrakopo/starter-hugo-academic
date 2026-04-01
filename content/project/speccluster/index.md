@@ -6,7 +6,7 @@ summary: An open-source desktop application for interactive clustering and visua
 tags:
 - Open Source
 
-date: 2025-11-11
+#date: 2025-11-11
 
 external_link: ""
 

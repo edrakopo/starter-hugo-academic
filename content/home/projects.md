@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 65
+#date_format: Jan 2006
 
 title: Projects
 subtitle: ''

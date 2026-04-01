@@ -6,7 +6,7 @@ summary: Supervision and research on neutrino event reconstruction and energy es
 tags:
 -  ANNIE
 
-date: 2025-08-25
+#date: 2025-08-25
 
 external_link: ""
 

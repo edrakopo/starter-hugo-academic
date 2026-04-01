@@ -6,7 +6,7 @@ summary: ROOT2Data is an open source Python toolset for converting ROOT files to
 tags:
 - Open Source
 
-date: 2025-08-25
+#date: 2025-08-25
 
 external_link: ""
 
