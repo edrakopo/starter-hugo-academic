@@ -1,7 +1,7 @@
 ---
 title: "KM3NeT Projects"
 
-summary: Supervision and research on neutrino detection, event reconstruction and machine/deep learning applications for the KM3NeT/ARCA (ORCA) detectors.
+summary: Supervision and research on neutrino atsronomy, incluidng event reconstruction and machine/deep learning techniques for the KM3NeT/ARCA (ORCA) detectors.
 tags:
 -  KM3NeT
 
