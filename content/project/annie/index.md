@@ -24,3 +24,8 @@ Event reconstruction for the ANNIE experiment using Graph Neural Networks, focus
 
 **2022 - 2023:P. Sakkou** 
 Development of deep learning algorithms for the neutrino vertex reconstruction in the ANNIE experiment. 
+
+# Internships
+---
+**June 2026 - September 2026: E. Grizanitis**
+Neutrino vertex and direction reconstruction using Graph Neural Networks in ANNIE.

@@ -17,7 +17,7 @@ experience:
        [USA], Hyper-Kamiokande [Japan]
        * Supervising undergraduate, MSc and PhD students, as well as research assistants: guiding AI–driven data analysis within international neutrino physics collaborations.
        * Leading the development of SpecCluster, a desktop application supporting machine-learning–driven clustering and exploration of spectral and X-ray fluorescence(XRF) data. [DOI zenodo.17579433](https://doi.org/10.5281/zenodo.17579433)
-       * Teaching the course:"Statistical Techniques" in the MSc program: Physics and Applications in Technology at [NTUA](https://metaptychiako-fysikis.physics.ntua.gr/en/home/).
+       * Teaching the course:"Statistical Techniques" in the MSc program: Physics and Applications in Technology at [NTUA](https://metaptychiako-fysikis.physics.ntua.gr/en/home/) [2023 - 2026].
 
   - title: Tenure-track Researcher
     company: NCSR Demokritos

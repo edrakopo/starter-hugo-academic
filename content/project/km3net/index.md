@@ -1,7 +1,7 @@
 ---
 title: "KM3NeT Projects"
 
-summary: Supervision and research on neutrino atsronomy, incluidng event reconstruction and machine/deep learning techniques for the KM3NeT/ARCA (ORCA) detectors.
+summary: Supervision and research on neutrino atsronomy, including event reconstruction and machine/deep learning techniques for the KM3NeT/ARCA (ORCA) detectors.
 tags:
 -  KM3NeT
 
@@ -57,7 +57,7 @@ Event reconstruction using Graph Neural Networks for the KM3NeT/ARCA detector (8
 ---
 
 **2025 - Present: M. Lazarou**
-Deposited Energy Reconstruction using Graph Neural Networks within the [GraphNeT](https://github.com/graphnet-team/graphnet) framework for KM3NeT/ARCA (21 detection units).
+Visible Energy Reconstruction using Graph Neural Networks within the [GraphNeT](https://github.com/graphnet-team/graphnet) framework for KM3NeT/ARCA (21 detection units).
 
 **2023 - 2024: P. Gkotsis**
 Neutrino Energy Reconstruction using Graph Neural Networks within the [GraphNeT](https://github.com/graphnet-team/graphnet) framework for KM3NeT/ARCA (21 detection units), with comparisons to alternative GNN approaches using [OrcaNet](https://github.com/KM3NeT/OrcaNet) on the same dataset.

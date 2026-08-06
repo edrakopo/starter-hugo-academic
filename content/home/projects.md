@@ -34,8 +34,10 @@ content:
     tag: KM3NeT
   - name: ANNIE
     tag: ANNIE
-  - name: Other AI-related  
-    tag: Other AI-related
+  - name: Detector R&D & Simulations
+    tag: Detector R&D & Simulations
+  - name: AI Internships & Mentorship
+    tag: AI Internships & Mentorship
   #- name: Analytics
   #  tag: Data Analytics
   #- name: Other
