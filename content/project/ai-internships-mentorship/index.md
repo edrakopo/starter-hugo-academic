@@ -29,6 +29,6 @@ Since 2016, supervised 20+ undergraduate, MSc and PhD students and research assi
 
 **Panagiotis Gkotsis (BSc, 2023–2024)** - started as an intern in acoustic neutrino detection studies in the astroparticle physics group (2023) and progressed to a BSc thesis benchmarking DynEdge ([GraphNeT](https://github.com/graphnet-team/graphnet)) Graph Neural Network against [OrcaNet](https://github.com/KM3NeT/OrcaNet) for KM3NeT/ARCA energy reconstruction; results presented at [NEUTRINO2024](https://agenda.infn.it/event/37867/contributions/229767/attachments/121592/177349/Poster_Neutrino2024_KM3NeT_ARCA_GNN.pdf).
 
-**Paraskevi Sakkou (BSc, 2022–2023)** - developed a vertex reconstruction method for water Cherenkov detectors employing Deep Learning Neural Networks, significantly improving reconstruction efficiency compared to maximum likelihood-based methods.
+**Paraskevi Sakkou (BSc, 2022–2023)** - from summer intern to BSc thesis developing a vertex reconstruction method for water Cherenkov detectors employing Deep Learning Neural Networks, significantly improving reconstruction efficiency compared to maximum likelihood-based methods.
 
 **Nikolaos Karafyllis (intern, 2023)** - comparative study of uncertainty estimation methods for ML-based energy predictions in ANNIE.
