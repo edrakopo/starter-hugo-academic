@@ -3,7 +3,7 @@ title: "Detector R&D & Simulations"
 
 summary: Supervision and research experience on detector instrumentation and materials-oriented simulation — including photodetector characterisation, optical component studies and imaging system simulation across neutrino and medical physics applications (Hyper-Kamiokande, TITUS, PET/LAPPD).
 tags:
--  Detector R&D
+- Detector R&D & Simulations
 
 #date: 2025-08-25
 
