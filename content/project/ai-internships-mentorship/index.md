@@ -1,7 +1,7 @@
 ---
 title: "AI Internships & Mentorship"
 
-summary: Supervision and research experience on AI-driven neutrino event reconstruction, classification and uncertainty estimation - spanning Graph Neural Networks, deep learning and explainability methods applied across different neutrino experiments.
+summary: Supervision and research experience on AI-driven neutrino event reconstruction, classification and uncertainty estimation spanning Graph Neural Networks, deep learning and explainability methods applied across different neutrino experiments.
 
 tags:
 - AI Internships Mentorship
